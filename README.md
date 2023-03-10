@@ -13,25 +13,25 @@
 
 <img src="Docs/Untitled 1.png">
 
-<img src="Docs/Untitled 2.png">
-
 타이틀 화면
+
+<img src="Docs/Untitled 2.png">
 
 게임 참가 화면
 
 <img src="Docs/Untitled 3.png">
 
-<img src="Docs/Untitled 4.png">
-
 로비 화면
+
+<img src="Docs/Untitled 4.png">
 
 스킬 선택 화면
 
 <img src="Docs/Untitled 5.png">
 
-<img src="Docs/Untitled 6.png">
-
 인게임 화면
+
+<img src="Docs/Untitled 6.png">
 
 게임 결과
 
