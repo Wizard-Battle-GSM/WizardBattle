@@ -11,25 +11,25 @@
 
 ---
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled.png)
+<img src="Docs/Untitled 1.png">
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled%201.png)
+<img src="Docs/Untitled 2.png">
 
 타이틀 화면
 
 게임 참가 화면
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled%202.png)
+<img src="Docs/Untitled 3.png">
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled%203.png)
+<img src="Docs/Untitled 4.png">
 
 로비 화면
 
 스킬 선택 화면
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled%204.png)
+<img src="Docs/Untitled 5.png">
 
-![Untitled](Wizard%20Battle%2064a6ce23862343d7a79271f7666e8e46/Untitled%205.png)
+<img src="Docs/Untitled 6.png">
 
 인게임 화면
 
