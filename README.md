@@ -4,13 +4,11 @@
 『해리포터 비밀의 방』의 [결투 클럽](https://youtu.be/ZAf3U0J8Se8?feature=shared)을 보고 영감을 받아 제작하였습니다.<br> 
 PC와 VR의 크로스 플레이를 지원합니다.<br>
 <br>
+[개발 Repository 가기](https://github.com/qkrwoaks/WizardBattle)<br>
+<br>
 📆 제작 기간 : 2022.11 ~ 2023.01 (약 3개월)
 
 ## 🔍 인게임
-
-[![Wizard Battle 영상](http://img.youtube.com/vi/fdr7EpLSANQ/maxresdefault.jpg)](https://youtu.be/fdr7EpLSANQ)
-<br>
--유튜브 영상-
 
 <img src="Docs/Untitled.png">
 <br>
